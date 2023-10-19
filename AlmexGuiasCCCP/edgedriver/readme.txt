@@ -1,0 +1,1 @@
+en esta carpeta debe ir el edgedriver.exe
