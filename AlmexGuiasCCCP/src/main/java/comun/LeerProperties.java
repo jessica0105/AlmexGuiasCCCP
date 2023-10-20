@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class LeerProperties {                                        
+	//private String systemPropFileName = System.getProperty("user.dir")+"\\src\\resource\\java\\dataFiles\\data.properties";
 	private String systemPropFileName = System.getProperty("user.dir")+"\\src\\resource\\java\\dataFiles\\data.properties";
 	private static Properties systemProp = null;
 	private Properties m_properties = new Properties();
